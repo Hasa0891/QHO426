@@ -1,0 +1,9 @@
+def directions():
+    dirs = ["Move Forward", "Move Backword", "Turn Left", "Turn Right"]
+    return dirs
+
+def run():
+      print(directions())
+
+run()
+    

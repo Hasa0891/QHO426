@@ -1,0 +1,10 @@
+answer = ""
+while answer.lower() != "stop":
+    print("Dormamu, I came to bargain!")
+    answer = input()
+
+while true:
+    print("Ha-ha-ha")
+    a = input()
+    if a == "Aha":
+        break
