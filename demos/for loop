@@ -1,4 +1,0 @@
-x = int(input("Enter start point"))
-y = int(inout("Enter the endpont"))
-for i in range (12, -5, -7):
-    print(f"statement number {i}")
