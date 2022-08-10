@@ -13,4 +13,4 @@ def run():
             good_steps.append(step)
     print(f"Good steps: {len(good_steps)}, Bad steps: {len(bad_steps)}")
 
-run()
+run()0
