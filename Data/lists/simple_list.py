@@ -5,4 +5,4 @@ def directions():
 def run():
     print(directions())
 
-run()0
+run()
