@@ -6,6 +6,6 @@ def run():
     print("Moving...")
     micky_mouse = movements()
     for i in range (0, len(micky_mouse), 2):
-        print(f"{micky_mouse[i]} for {micky_mouse[i+1]} steps")
+        print(f"{micky_mouse[i]} for {micky_mouse[i+1]} steps"))
 
 run()
