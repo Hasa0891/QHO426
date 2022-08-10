@@ -9,4 +9,4 @@ weight = float(input())
 bmi = weight/(height**2)
 print(name, "you are", age, "years old and your BMI is", bmi)
 print(f"{name} you are {age} years old and your BMI is {bmi:.2f}")
-print("{} you are {} years old and your BMI is {:.5f}".format(name, age, bmi))
+print("{} you are {} years old and your BMI is {:.5f}".format(name, age, bmi))0
